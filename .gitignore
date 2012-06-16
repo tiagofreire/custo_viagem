@@ -4,4 +4,3 @@
 *.war
 *.ear
 .DS_Store
-.classpath
